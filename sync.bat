@@ -1,4 +1,4 @@
-# Sync loco repo on windows to vps.
+# Sync local repo on windows to vps.
 # My simple salution to replace rcync.
 
 
